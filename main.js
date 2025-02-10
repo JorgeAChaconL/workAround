@@ -1,4 +1,4 @@
-import { getRoles, getCompanies } from "./salaryData";
+import { getRoles, getCompanies } from "./salaryData.js";
 
 //Get the data from the salaryData.js file
 const companies = getCompanies();
