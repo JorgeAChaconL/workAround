@@ -1,5 +1,5 @@
-import { getDataByRole, getDataByCompany } from "./salaryData";
-import salaryData from "./salaryData";
+import { getDataByRole, getDataByCompany } from "./salaryData.js";
+import salaryData from "./salaryData.js";
 
 //Replace empty array with imported data functions/values;
 
